@@ -6,7 +6,7 @@
 - GitHub: [LeoKolobov](https://github.com/LeoKolobov)
 
 ## Brief story:
-Motivated student aspired to become a programmer one day. Starting with looking up my brother and continuing in high school, this passion only grew greater and greater. Constant studying and gaining new skills has been my main principle.
+Motivated student aspired to become a programmer one day. Starting with looking up my brother and continuing in high school, this passion only grew greater and greater. Constant studying and gaining new skills has been my main principle. Also a photographer as a hobby.
 
 
 
@@ -23,11 +23,7 @@ Motivated student aspired to become a programmer one day. Starting with looking 
 ## Courses
 - FreeCodeCamp HTML and CSS course (in progress)
 - Harvard CS50 (in progress)
-
-
-## Courses
-- Harvard CS50 (In Progress)
-- FreeCodeCamp - Responsive Web Design course (In Progress)
+- RS School Full Stack JavaScript
   
 ## Languages
 - Russian - Native
@@ -43,3 +39,4 @@ Convert a Number to a String! We need a function that can transform a number (in
 }</pre>
 
 ## Projects
+Remind Me After
