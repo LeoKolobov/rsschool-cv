@@ -3,7 +3,7 @@
 ## Contact information:
 - Phone: +79213945594
 - Telegram: @LeoKolobkovsky
-- GitHub: [LeOKoloB](https://github.com/LeOKoloB)
+- GitHub: [LeoKolobov](https://github.com/LeoKolobov)
 
 ## Brief story:
 Motivated student aspired to become a programmer one day. Starting with looking up my brother and continuing in high school, this passion only grew greater and greater. Constant studying and gaining new skills has been my main principle.
